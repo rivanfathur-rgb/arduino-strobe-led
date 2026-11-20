@@ -2,7 +2,7 @@
 
 Program efek lampu *strobe* berbasis Arduino Uno. Sistem bekerja secara otomatis memilih 4 pola kedipan LED acak dengan jeda waktu (*timing*) acak menggunakan fungsi `random()`.
 
-
+![Demo Arduino Strobe LED](docs/demo.gif)
 
 ##  Konfigurasi Hardware
 
